@@ -1,0 +1,10 @@
+D:\比赛\PointsCloud\PointsCloud\bin\Debug\PointsCloud.exe.config
+D:\比赛\PointsCloud\PointsCloud\bin\Debug\PointsCloud.exe
+D:\比赛\PointsCloud\PointsCloud\bin\Debug\PointsCloud.pdb
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.csprojAssemblyReference.cache
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.Form1.resources
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.Properties.Resources.resources
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.csproj.GenerateResource.cache
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.csproj.CoreCompileInputs.cache
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.exe
+D:\比赛\PointsCloud\PointsCloud\obj\Debug\PointsCloud.pdb
